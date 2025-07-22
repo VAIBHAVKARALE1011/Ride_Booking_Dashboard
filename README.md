@@ -12,7 +12,7 @@ This Power BI dashboard analyzes key metrics of a ride-booking platform, such as
 ## ⚙️ Tech Stack
 - Power BI
 - DAX (Calculated Measures)
-- Excel (for preprocessing)
+- Python (for preprocessing)
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](dashboard_preview.png)
